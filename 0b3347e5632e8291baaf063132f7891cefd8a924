@@ -1,0 +1,1 @@
+{"jobID":"9a11e6b7-af10-2ab7-6ad9-8acc2efe0413","spec":{"type":"policy","cause":{"Message":"","User":"Rebecca Pruim \u003cbecca@paxos.xyz\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
