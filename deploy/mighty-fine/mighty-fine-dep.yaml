@@ -4,8 +4,6 @@ apiVersion: apps/v1
 metadata:
   name: mightyfine
   namespace: dev
-  annotations:
-    flux.weave.works/tag.podinfod: semver:>3.0.0
 spec:
   replicas: 3
   selector:
